@@ -18,4 +18,4 @@
 #infiniflow/ragflow:v0.20.5-slim
 #trieve/firecrawl
 #redis:alpine
-auth.docker.io/token
+node:18-alpine
