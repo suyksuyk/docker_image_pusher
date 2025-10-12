@@ -17,4 +17,5 @@
 #valkey/valkey:8
 #infiniflow/ragflow:v0.20.5-slim
 #trieve/firecrawl
-redis:alpine
+#redis:alpine
+auth.docker.io/token
