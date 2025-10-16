@@ -19,6 +19,7 @@
 #trieve/firecrawl
 #redis:alpine
 #node:18-alpine
-ghcr.io/mendableai/firecrawl:latest
+#ghcr.io/mendableai/firecrawl:latest
+infiniflow/ragflow:v0.21.0-slim
 
 
