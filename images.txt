@@ -20,6 +20,7 @@
 #redis:alpine
 #node:18-alpine
 #ghcr.io/mendableai/firecrawl:latest
-infiniflow/ragflow:v0.21.0-slim
+#infiniflow/ragflow:v0.21.0-slim
+hub.icert.top/opensearchproject/opensearch:2.19.1
 
 
