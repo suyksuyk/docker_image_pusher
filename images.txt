@@ -21,6 +21,7 @@
 #node:18-alpine
 #ghcr.io/mendableai/firecrawl:latest
 #infiniflow/ragflow:v0.21.0-slim
-hub.icert.top/opensearchproject/opensearch:2.19.1
+#hub.icert.top/opensearchproject/opensearch:2.19.1
+kibana:8.11.3
 
 
