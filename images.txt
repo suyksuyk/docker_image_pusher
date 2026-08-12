@@ -54,5 +54,6 @@ postgres:16-alpine
 redis:7-alpine
 caddy:2-alpine
 python:3.11-slim
+tensorflow/tensorflow:1.15.5-py3
 
 
