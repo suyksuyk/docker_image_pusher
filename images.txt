@@ -56,4 +56,4 @@ caddy:2-alpine
 python:3.11-slim
 tensorflow/tensorflow:1.15.5-py3
 tensorflow/tensorflow:1.15.5-gpu-py3
-
+ghcr.io/presenton/presenton:latest
